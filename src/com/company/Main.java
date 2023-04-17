@@ -7,6 +7,7 @@ public class Main {
         //without any inconsistent state or arguments management issues
         //commit 1
         //commit 2
+        //commit 3
         Computer comp = new Computer.ComputerBuilder(
             "500 GB", "2 GB").setBluetoothEnabled(true)
             .setGraphicsCardEnabled(true).build();
